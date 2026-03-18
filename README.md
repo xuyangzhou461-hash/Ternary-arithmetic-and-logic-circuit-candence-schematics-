@@ -3,6 +3,7 @@
 
 The STI designs and TNAND schematic designs require only the two CNFET models and are the most likely to be portable. 
 The THA designs required additional binary gates and are not portable since they needed extra binary gates!!!
+The exact parameters (n,m) for each CNFET are not provided.
 
 # Report gist
 This repository is an extension to the "Is Ternary Computing more Efficient than Binary?" passion project and contains a complete suite of ternary and binary logic circuits, including personal optimizations and recreations of existing work. Multiple variations of ternary logic gates were assembled and verified via transient analysis. The key findings of this passion project include:
