@@ -3,9 +3,6 @@ Read if you wish to recreate the provided schematics:
 
 **You need**: tsmc18rf technology library, Stanford CNFET models, Cadence Virtuoso, original parameters from references.
 
-Do not attempt downloading the schmatic (.oa) files provided are they are likely not portable. 
-Although the STI designs and TNAND schematic designs require only the two CNFET models, the THA designs required additional binary gates and are definitely not portable.
-
 The exact parameters (n,m) for each CNFET are not provided and must be found from original sources of the designs. 
 
 # Report gist
