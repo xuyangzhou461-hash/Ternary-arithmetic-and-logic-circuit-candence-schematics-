@@ -6,7 +6,7 @@ Read if you wish to recreate the provided schematics:
 The exact parameters (n,m) for each CNFET are not provided and must be found from original sources of the designs. 
 
 # Report gist
-This repository is an extension to the "Is Ternary Computing more Efficient than Binary?" passion project and contains a complete suite of ternary and binary logic circuits, including personal optimizations and recreations of existing work. Multiple variations of ternary logic gates were assembled and verified via transient analysis. The key findings of this passion project include:
+This repository is an extension to the ipq project and contains a complete suite of ternary and binary logic circuits, including personal optimizations and recreations of existing work. Multiple variations of ternary logic gates were assembled and verified via transient analyses. The key findings of the project include:
 
 1. **Logic Gate Speed & Power:** 32nm CNTFET ternary gates (TNAND and STI) operate with delay in the femtosecond ($10^{-15}$) range and consume power in the nanowatt ($10^{-9}$) range, significantly outperforming 180nm CMOS binary equivalents.
 2. **Arithmetic Efficiency:** The proposed THA design demonstrated extraordinarily high energy efficiency, consuming only 1.274 $\mu W$, outperforming the 180nm binary half adder in power usage.
